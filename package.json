@@ -1,0 +1,7 @@
+{
+  "name": "southwest-gas-competency-hub",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Competency-first hub with a dedicated future review design workspace",
+  "scripts": {"check": "node checks/verify.mjs", "start": "python3 -m http.server 8000 --directory dist"}
+}
